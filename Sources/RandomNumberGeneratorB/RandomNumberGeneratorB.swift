@@ -10,6 +10,6 @@ public struct RandomNumberGeneratorB {
     }
     
     public func GenerateRandomNumber()->Int {
-        return 5
+        return 55
     }
 }
