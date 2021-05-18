@@ -1,4 +1,4 @@
-struct RandomNumberGeneratorB {
+public struct RandomNumberGeneratorB {
     var text = "Hello, World!"
     
     public func HelloToYou()-> String {
