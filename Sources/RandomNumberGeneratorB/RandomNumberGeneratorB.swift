@@ -4,4 +4,8 @@ struct RandomNumberGeneratorB {
     public func HelloToYou()-> String {
         return "Hellow to you !"
     }
+    
+    public func GenerateRandomNumber()->Int {
+        return 5
+    }
 }
