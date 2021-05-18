@@ -6,7 +6,7 @@ public struct RandomNumberGeneratorB {
     }
     
     public init () {
-        
+         
     }
     
     public func GenerateRandomNumber()->Int {
