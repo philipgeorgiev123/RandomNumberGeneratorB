@@ -5,6 +5,10 @@ struct RandomNumberGeneratorB {
         return "Hellow to you !"
     }
     
+    public init () {
+        
+    }
+    
     public func GenerateRandomNumber()->Int {
         return 5
     }
