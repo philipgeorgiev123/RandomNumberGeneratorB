@@ -1,12 +1,6 @@
 import NumbersA
 
-public struct RandomNumberGeneratorB {
-    var text = "Hello, World!"
-    
-    public func HelloToYou()-> String {
-        return "Hellow to you !"
-    }
-    
+public struct RandomNumberGeneratorB {   
     public init () {
         let numbers = NumbersA()
         print(numbers.GotNumbers())
